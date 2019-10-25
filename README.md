@@ -1,2 +1,2 @@
-# tumarym1996.github.io
+#Tumarym
 My  first website
